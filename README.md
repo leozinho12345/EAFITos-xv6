@@ -1,4 +1,4 @@
-# EAFITos - Shell personalizada basada en xv6
+#EAFITos - Shell personalizada basada en xv6
 EAFITos es una shell personalizada desarrollada sobre xv6-riscv, un sistema operativo educativo creado por MIT.
 
 El proyecto está organizado siguiendo la estructura original de xv6:
