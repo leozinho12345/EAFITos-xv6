@@ -145,6 +145,18 @@ UPROGS=\
 	$U/_logstress\
 	$U/_forphan\
 	$U/_dorphan\
+	$U/_directorio\
+	$U/_calc\
+	$U/_usuario\
+	$U/_listar\
+	$U/_leer\
+	$U/_tiempo\
+	$U/_ayuda\
+	$U/_salir\
+	$U/_pwd\
+	$U/_contar\
+	$U/_kernel\
+	$U/_eafitos\
 
 fs.img: mkfs/mkfs README $(UPROGS)
 	mkfs/mkfs fs.img README $(UPROGS)
